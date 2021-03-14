@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorOutage">#D81B60</color>
+
+    <color name="colorTableHeader">#FFFFFF</color>
+    <color name="colorRowBorder">#5E22B9FF</color>
+
+    <color name="colorZTE">#5900FF</color>
+    <color name="colorNSN">#EF6DEF</color>
+    <color name="colorHuawei">#00FCFE</color>
+    <color name="colorNortel">#F2F436</color>
+    <color name="colorMotorola">#FC5A01</color>
+
+    <color name="red">#D81B60</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+
+    <color name="colorAccent">#4E90F5</color>
+    <color name="colorBottomMenu">#2152CE</color>
+    <color name="colorTopMenu">#FFFFFF</color>
+    <color name="color3rdTopMenu">#22B9FF</color>
+    <color name="colorTotalBTS">#005739</color>
+    <color name="colorfabBg">#2152CE</color>
+    <color name="colorInactive">#71CE04</color>
+    <color name="colorinfo">#3BFFD740</color>
+    <color name="profilePrimaryDark">#2152CE</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+    <color name="colorMake">#C9460212</color>
+    <color name="colorAlarmInfo">#2505AF</color>
+    <color name="spinnerbackground">#E1E4F7</color>
+
+</resources>
